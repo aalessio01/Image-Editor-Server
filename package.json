@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/aalessio01/Image-Editor-Server.git"
@@ -23,5 +20,9 @@
     "jest": "^30.1.2",
     "ts-jest": "^29.4.1",
     "typescript": "^5.9.2"
-  }
+  },
+  "scripts": {
+  "build": "tsc",
+  "test": "jest"
+}
 }
