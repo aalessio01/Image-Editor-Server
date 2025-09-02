@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/aalessio01/Image-Editor-Server/issues"
   },
-  "homepage": "https://github.com/aalessio01/Image-Editor-Server#readme"
+  "homepage": "https://github.com/aalessio01/Image-Editor-Server#readme",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2"
+  }
 }
