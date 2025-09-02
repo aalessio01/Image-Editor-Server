@@ -1,0 +1,20 @@
+{
+  "name": "image-editor-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalessio01/Image-Editor-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aalessio01/Image-Editor-Server/issues"
+  },
+  "homepage": "https://github.com/aalessio01/Image-Editor-Server#readme"
+}
