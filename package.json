@@ -23,7 +23,7 @@
     "typescript": "^5.9.2"
   },
   "scripts": {
-    "start-server": "ts-node src/index.ts",
+    "start": "ts-node src/main.ts",
     "test": "jest"
   }
 }
