@@ -1,6 +1,6 @@
 describe ("test", ()=> {
     it ("test", ()=> {
-        expect(false).toBe (false);
+        expect(2).toBe (false);
 })
 
 })
